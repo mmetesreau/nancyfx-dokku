@@ -1,0 +1,8 @@
+#################
+## VS
+#################
+
+HelloWorld/bin/
+HelloWorld/obj/
+packages/
+
