@@ -22,10 +22,6 @@ Global
 		{754F5CE1-20FF-4207-95AD-2C15C29530E3}.Debug|x86.Build.0 = Debug|x86
 		{754F5CE1-20FF-4207-95AD-2C15C29530E3}.Release|x86.ActiveCfg = Release|x86
 		{754F5CE1-20FF-4207-95AD-2C15C29530E3}.Release|x86.Build.0 = Release|x86
-		{74216373-850A-4F5B-92CD-C10CEE80F9C0}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{74216373-850A-4F5B-92CD-C10CEE80F9C0}.Debug|x86.Build.0 = Debug|Any CPU
-		{74216373-850A-4F5B-92CD-C10CEE80F9C0}.Release|x86.ActiveCfg = Release|Any CPU
-		{74216373-850A-4F5B-92CD-C10CEE80F9C0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
